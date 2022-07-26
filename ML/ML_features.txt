@@ -1,0 +1,51 @@
+Mef2c, ChIP-seq (E12.5 Heart)1
+Tbx5, ChIP-exo (mES-CM)2
+H3K27Ac, ChIP-seq (E10.5 Heart)3
+EP300, ChIP-seq (E12.5 Heart)4
+Mef2a, ChIP-seq (E12.5 Heart)1
+DNase-seq (E10.5 Heart)3
+Nkx2-5, ChIP-seq (E12.5 Heart)1
+Nkx2-5, ChIP-exo (mES-CM)2
+Srf, ChIP-seq (E12.5 Heart)1
+H3K4me3, ChIP-seq (E10.5 Forebrain)3
+H3K4me3, ChIP-seq (E10.5 Midbrain)3
+Lmx1b, ChIP-seq (E12.5 Limb)5
+DNase-seq (E10.5 Forebrain)3
+
+Gli3, ChIP-seq, (E11.5 Whole Face)1
+Lhx6, ChIP-seq, (E12.5 Maxillary Arch)2
+Gli3, ChIP-seq, (E12.5 Mandibular Prom.)1
+H3K27Ac, ChIP-seq, (E10.5 Facial Prom.)3
+Lmx1b, ChIP-seq, (E12.5 Limb)4
+Hand2, ChIP-seq, (E11.5 Mandibular Prom.)1
+ATAC-seq, (E11.5 Facial Prom.)3
+H3K4me1, ChIP-seq, (E10.5 Limb)3
+H3K4me3, ChIP-seq, (E10.5 Facial Prom.)3
+H3K4me3, ChIP-seq, (E10.5 Limb)3
+H3K4me1, ChIP-seq, (E12.5 Facial Prom.)3
+Pitx1, ChIP-seq, (E11.5 Limb)5
+H3K4me1, ChIP-seq, (E10.5 Facial Prom.)3
+phastCons, 100-Way (Conservation)
+Gli3, ChIP-seq, (E10.5 Limb)6
+H3K4me1, ChIP-seq, (E11.5 Facial Prom.)3
+H3K4me2, ChIP-seq, (E12.5 Midbrain)3
+ATAC-seq, (Adult Front Cortex)3
+ATAC-seq, (E14.5 Liver)3
+ATAC-seq, (E14.5 Intestine)3
+H3K27Ac, ChIP-seq, (Adult Olfactory Bulb)3
+H3K27Ac, ChIP-seq, (P0 Hindbrain)3
+H3K4me1, ChIP-seq, (E13.5 Liver)3
+ATAC-seq, (P0 Midbrain)3
+H3K27Ac, ChIP-seq, (Adult Brown Adipose)3
+H3K4me1, ChIP-seq, (E11.5 Neural Tube)3
+ATAC-seq, (Adult Cerebellum)3
+H3K4me2, ChIP-seq, (P0 Forebrain)3
+H3K27Ac, ChIP-seq, (E13.5 Liver)3
+H3K4me1, ChIP-seq, (E16.5 Hindbrain)3
+H3K9ac, ChIP-seq, (E13.5 Midbrain)3
+H3K9ac, ChIP-seq, (E13.5 Liver)3
+ATAC-seq, (E16.5 Intestine)3
+H3K4me3, ChIP-seq, (E14.5 Neural Tube)3
+H3K27Ac, ChIP-seq, (E15.5 Hindbrain)3
+H3K9ac, ChIP-seq, (P0 Forebrain)3
+H3K4me1, ChIP-seq, (Adult Cerebellum)3

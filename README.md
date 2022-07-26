@@ -19,4 +19,4 @@ Please flag any issues and contact Dr. Sanjeev Ranade at `sanjeev.ranade@gladsto
 
 ## Data Availability
 
-All sequencing data is available via GEO/SRA upon publication: [GSE198567](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198567)
+All sequencing data is available via GEO/SRA: [GSE198567](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE198567)
